@@ -1,5 +1,6 @@
 import React from "react";
 import { ToDoesContext } from "../ToDoesContext";
+import './Addtask.css'
 
 function Addtask() {
     const [newTaskValue, setNewTaskValue] = React.useState('');
@@ -30,12 +31,12 @@ function Addtask() {
             onChange={onChange}
             placeholder="¿Que quires agregar a tu día?"
             ></textarea>
-            <div>
-                <button 
+            <div className="TodoForm-buttonContainer">
+                <button className="TodoForm-button TodoForm-button--cancel"
                 type="button"
                 onClick={onCancel}
                 >Cancelar</button>
-                <button 
+                <button className="TTodoForm-button TodoForm-button--add"
                 type="submit"
                 >Agregar</button>
             </div>
