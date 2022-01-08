@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/done-tasks-App/static/css/main.58a97678.chunk.css",
+    "main.js": "/done-tasks-App/static/js/main.10876226.chunk.js",
+    "main.js.map": "/done-tasks-App/static/js/main.10876226.chunk.js.map",
+    "runtime-main.js": "/done-tasks-App/static/js/runtime-main.afc88893.js",
+    "runtime-main.js.map": "/done-tasks-App/static/js/runtime-main.afc88893.js.map",
+    "static/js/2.2b739fad.chunk.js": "/done-tasks-App/static/js/2.2b739fad.chunk.js",
+    "static/js/2.2b739fad.chunk.js.map": "/done-tasks-App/static/js/2.2b739fad.chunk.js.map",
+    "index.html": "/done-tasks-App/index.html",
+    "static/css/main.58a97678.chunk.css.map": "/done-tasks-App/static/css/main.58a97678.chunk.css.map",
+    "static/js/2.2b739fad.chunk.js.LICENSE.txt": "/done-tasks-App/static/js/2.2b739fad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afc88893.js",
+    "static/js/2.2b739fad.chunk.js",
+    "static/css/main.58a97678.chunk.css",
+    "static/js/main.10876226.chunk.js"
+  ]
+}
